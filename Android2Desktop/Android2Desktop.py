@@ -33,7 +33,8 @@ def startYouTubePlayer(urlString):
     urlData=urlparse.urlparse(urlString)
     videoId=urlparse.parse_qs(urlData.query)["v"][0]
     print 'Video id is: ', videoId
-    Popen(["/home/htplainf/youtubemplayer.sh", videoId])
+    Popen(["/home/htplainf/youtubemythplayer.sh", videoId])
+    #Popen(["/home/htplainf/youtubemplayer.sh", videoId])
     #Popen(["vlc","--fullscreen", urlString]) # If you don't want to mess with the YouTube mplayer script uncomment this line for VLC and comment the line above it. 
 
 serverSocket = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
