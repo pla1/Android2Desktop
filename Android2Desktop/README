@@ -7,7 +7,7 @@ WHY: Sometimes you prefer watching or reading on the big screen rather than your
 HOW: 
 
   1. Install the Android2Desktop app on your Android device. 
-  2. Download companion desktop Python script https://github.com/pla1/Android2Desktop/blob/master/Android2Desktop/Android2Desktop.py
+  2. Download companion desktop Python script https://raw.github.com/pla1/Android2Desktop/master/Android2Desktop/Android2Desktop.py
   3. Hack on the companion desktop Python script to customize the actions performed on the URL.
   4. Run the Android2Desktop.py script on your desktop computer.
   5. Specify your desktop IP address and the port in the Android 2 Desktop app. The default port is 12345.  
