@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Android 2 Desktop</string>
+    <string name="banner">Share a URL to your desktop computer that is running the companion Python script Android2Desktop.py.</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="settings">Android 2 Desktop Settings</string>
+    <string name="ipAddress">IP address</string>
+    <string name="ipAddressSummary">IP Address or Host Name</string>
+    <string name="port">Port</string>
+    <string name="portSummary">Port number</string>
+
+</resources>

@@ -1,0 +1,23 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="User Settings" >
+        <EditTextPreference
+            android:dialogTitle="@string/ipAddress"
+            android:inputType="text"
+            android:key="ipAddress"
+            android:summary="@string/ipAddressSummary"
+            android:title="@string/ipAddress" />
+        <EditTextPreference
+            android:dialogTitle="@string/port"
+            android:inputType="number"
+            android:key="port"
+            android:summary="@string/portSummary"
+            android:title="@string/port" />
+
+        <Preference
+            android:key="buildDate"
+            android:summary="The date Android2Desktop was built."
+            android:title="Build date" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
