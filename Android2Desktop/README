@@ -2,15 +2,18 @@ Android 2 Desktop
 
 WHAT: Share URLs from your Android device to your desktop computer.
 
+WHY: Sometimes you prefer watching or reading on the big screen rather than your Android device.
+
 HOW: 
 
   1. Install the Android2Desktop app on your Android device. 
-  2. Hack on the companion desktop Python script to customize the actions performed on the URL.
-  3. Run the Android2Desktop.py script on your desktop computer.
-  4. Specify your desktop IP address and the port in the Android 2 Desktop app. The default port is 12345.  
-  4. On your Android device share web pages and YouTube videos to the Android 2 Desktop app. 
+  2. Download companion desktop Python script https://github.com/pla1/Android2Desktop/blob/master/Android2Desktop/Android2Desktop.py
+  3. Hack on the companion desktop Python script to customize the actions performed on the URL.
+  4. Run the Android2Desktop.py script on your desktop computer.
+  5. Specify your desktop IP address and the port in the Android 2 Desktop app. The default port is 12345.  
+  6. On your Android device share web pages and YouTube videos to the Android 2 Desktop app. 
   
-WHY: Sometimes you prefer watching or reading on the big screen rather than your Android device. 
+ 
 
 
   

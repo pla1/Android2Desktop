@@ -1,5 +1,6 @@
 #!/usr/bin/python 
-# Server side python script to the companion Android 2 Desktop app         
+# Server side python script to the companion Android 2 Desktop app  
+# File location https://github.com/pla1/Android2Desktop/blob/master/Android2Desktop/Android2Desktop.py       
 
 import socket,urlparse,sys,struct               
 from subprocess import Popen
